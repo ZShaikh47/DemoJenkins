@@ -8,5 +8,11 @@ public class DemoController {
 	public String helloDemo() {
 		return "Hello";
 	}
-
+	
+	public String helloDemo1() {
+		return "Hello";
+	}
+	
+	
+	
 }
